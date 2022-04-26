@@ -13,6 +13,7 @@
 		1EE7D65A28183CC6009A657B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EE7D65828183CC6009A657B /* Main.storyboard */; };
 		1EE7D65C28183CC7009A657B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EE7D65B28183CC7009A657B /* Assets.xcassets */; };
 		1EE7D65F28183CC7009A657B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EE7D65D28183CC7009A657B /* LaunchScreen.storyboard */; };
+		1EE7D6672818439F009A657B /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EE7D6662818439F009A657B /* RoundButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1EE7D65B28183CC7009A657B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1EE7D65E28183CC7009A657B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1EE7D66028183CC7009A657B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EE7D6662818439F009A657B /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1EE7D65228183CC6009A657B /* AppDelegate.swift */,
 				1EE7D65428183CC6009A657B /* SceneDelegate.swift */,
 				1EE7D65628183CC6009A657B /* ViewController.swift */,
+				1EE7D6662818439F009A657B /* RoundButton.swift */,
 				1EE7D65828183CC6009A657B /* Main.storyboard */,
 				1EE7D65B28183CC7009A657B /* Assets.xcassets */,
 				1EE7D65D28183CC7009A657B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1EE7D6672818439F009A657B /* RoundButton.swift in Sources */,
 				1EE7D65728183CC6009A657B /* ViewController.swift in Sources */,
 				1EE7D65328183CC6009A657B /* AppDelegate.swift in Sources */,
 				1EE7D65528183CC6009A657B /* SceneDelegate.swift in Sources */,
